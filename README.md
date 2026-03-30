@@ -91,6 +91,7 @@ Run SQL queries from the .sql file
 **3. Power BI**
 Open the .pbix file in Power BI Desktop
 Refresh the dataset if needed
+
 📁 Project Structure
 ├── data/
 ├── notebooks/
